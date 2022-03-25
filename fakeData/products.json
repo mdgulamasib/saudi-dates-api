@@ -2,55 +2,55 @@
     {
         "id": "101",
         "name": "Ajwa Dates",
-        "img": "./product_images/ajwa_dates.jpg",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/ajwa_dates.jpg",
         "price": 1200
     },
     {
         "id": "102",
         "name": "Stuffed Dates",
-        "img": "./product_images/stuffed.jpg",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/stuffed.jpg",
         "price": 1560
     },
     {
         "id": "103",
         "name": "Mabroom Dates",
-        "img": "./product_images/mabroom.png",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/mabroom.png",
         "price": 880
     },
     {
         "id": "104",
         "name": "Majdool Dates",
-        "img": "./product_images/majdool.png",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/majdool.png",
         "price": 1050
     },
     {
         "id": "105",
         "name": "Sagai Dates",
-        "img": "./product_images/sagai.jpg",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/sagai.jpg",
         "price": 560
     },
     {
         "id": "106",
         "name": "Vacuum Sukkari",
-        "img": "./product_images/premium_sukkari.jpg",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/premium_sukkari.jpg",
         "price": 779
     },
     {
         "id": "107",
         "name": "Dates Vinegar",
-        "img": "./product_images/dates_vinegar.jpg",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/dates_vinegar.jpg",
         "price": 300
     },
     {
         "id": "108",
         "name": "Vacuum Khalas",
-        "img": "./product_images/vacuum-khalas.png",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/vacuum-khalas.png",
         "price": 1200
     },
     {
         "id": "109",
         "name": "Sukkari Dates",
-        "img": "./product_images/sukkari-dates.png",
+        "img": "https://raw.githubusercontent.com/mdgulamasib/saudi-dates-api/main/fakeData/product_images/sukkari-dates.png",
         "price": 1200
     }
 ]
